@@ -79,4 +79,11 @@ FIR filters are essential in digital signal processing due to their inherent sta
 
 # output:
 
+![Image](https://github.com/user-attachments/assets/4eae34bb-fd8d-4c74-9e0a-b22e2914a29d)
+
+![Image](https://github.com/user-attachments/assets/4fc34bc4-66b1-468f-8d8c-aa481ffaf37d)
+
+![Image](https://github.com/user-attachments/assets/5eaa0979-84d1-445b-8402-2ef0092a0a27)
+
+![Image](https://github.com/user-attachments/assets/dd50af80-b8c8-4b9a-8817-90266321d951)
 
